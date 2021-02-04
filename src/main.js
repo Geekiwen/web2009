@@ -12,6 +12,8 @@ import 'swiper/css/swiper.css'
 import api from "./api"
 import "./utils/eventbus"
 
+// test
+
 Vue.prototype.$api = api;
 Vue.use(VueAwesomeSwiper)
 Vue.config.productionTip = false
